@@ -1,3 +1,5 @@
+Subject:
+
 Nano is a program for editing files that runs in the terminal. 
 
 
@@ -31,11 +33,4 @@ echo "
 |________|  |________|
 "
 <<end>>
-
-
-
-
-
-
-
 
